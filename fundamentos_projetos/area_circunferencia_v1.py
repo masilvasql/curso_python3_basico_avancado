@@ -1,6 +1,6 @@
 from string import Template
 
-
+# -*- coding: utf-8 -*- # Este comentário, é utilizado para modificar o encoding
 # 3.1415 * (raio ^ 2) --- área da circunferência
 
 
