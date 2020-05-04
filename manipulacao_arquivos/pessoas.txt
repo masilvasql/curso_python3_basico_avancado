@@ -1,0 +1,6 @@
+nome: 45, idade: Maria
+nome: 33, idade: João
+nome: 63, idade: Pedro
+nome: 21, idade: Ana
+nome: 40, idade: Bia
+nome: 14, idade: Carlos
